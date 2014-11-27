@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_background">#333333</color>
+    <color name="list_item_color">#eeeeee</color>
+    <color name="pressed">#5555ff</color>
+    <color name="second_grey">#FAFAFA</color>
+    <color name="card_shadow">#424242</color>
+    <color name="card_white">#F5F5F5</color>
+    <color name="list_back">#BDBDBD</color>
+</resources>
