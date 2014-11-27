@@ -28,6 +28,7 @@ public class MainActivity extends ActionBarActivity {
 	private int fragAttached = 0 ;
 	private static DataManager dataManager;
 
+	private int hudaue;
 	
 	
 	@Override
